@@ -670,7 +670,7 @@ strong {
 }
 /* icon with photo  */
 
-.icon{
+ .icon{ 
   position: relative;
   z-index: 100;
   width: 60px;
@@ -701,7 +701,7 @@ strong {
 {
   .icon{
     position: relative;
-  left: 18px;
+  left: 14px;
   }
 }
 @media (max-width: 360px)
@@ -733,7 +733,7 @@ strong {
 }
 @media (max-width: 575px) {
   .map{
-    width: 520px;
+    width: 349px;
     height: 200px;
     position: relative;
 }
